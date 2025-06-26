@@ -70,6 +70,6 @@ Select the board 'AI Thinker ESP32-CAM' and upload the code using a USB-to-TTL a
 
 Contributors:
 
-Athena Villarin
-Shane Canabo
-Carl John Coopera
+ - Athena Villarin
+ - Shane Canabo
+ - Carl John Coopera
