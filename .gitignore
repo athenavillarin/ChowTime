@@ -15,3 +15,7 @@ Arduino/ChowTime/*.json
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# Config details
+config.h
+
